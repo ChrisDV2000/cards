@@ -16,4 +16,5 @@ gdb: build
 	gdb ./trash
 clean:
 	rm -f trash
-	rm -f trash.exe
+	rm -f deck
+	rm -f *.exe

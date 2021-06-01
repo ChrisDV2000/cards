@@ -4,6 +4,6 @@
 #include <vector>
 using namespace std;
 
-void deck_init(vector<vector<int>> *deck);
+
 
 #endif

@@ -2,14 +2,16 @@
 #define _DECK_H_
 
 #include <vector>
+#include <string>
 
-typedef struct deck_card card;
-struct deck_card
+using namespace std;
+
+struct card
 {
-    char suit;
-    char value;
+    string suit;
+    string value;
 };
 
-// void populateDeck();
+void populateDeck();
 
 #endif
