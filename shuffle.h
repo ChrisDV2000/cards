@@ -1,9 +1,10 @@
 #ifndef _SHUFFLE_H_
 #define _SHUFFLE_H_
 
-#include <vector>
+#include "deck.h"
+
 using namespace std;
 
-
+void shuffleDeck();
 
 #endif

@@ -2,7 +2,7 @@
 #define _TRASH_H_
 
 #include "deck.h"
-#include "deck.cpp"
+#include "shuffle.h"
 
 
 #endif

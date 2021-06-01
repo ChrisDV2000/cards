@@ -10,7 +10,7 @@ struct card
 {
     string suit;
     string value;
-};
+}aDeck[52];
 
 void populateDeck();
 

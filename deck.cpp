@@ -7,8 +7,7 @@
 using namespace std;
 
 void populateDeck()
-{
-    card aDeck[52];
+{ 
     string suit;
     string value;
     int a = 0;

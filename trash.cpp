@@ -11,6 +11,7 @@ int main()
     cout << "Welcome" << endl;
 
     populateDeck();
+    shuffleDeck();
 
     return 0;
 }
